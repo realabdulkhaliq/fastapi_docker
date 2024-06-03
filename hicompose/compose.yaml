@@ -1,4 +1,3 @@
-version: 1.0.0
 name: "fastapi_docker_compose"
 services:
   fastapi_docker_compose:
