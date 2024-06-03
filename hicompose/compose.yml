@@ -1,4 +1,4 @@
-version: "3.9" # obsolete so no need to write
+# version: "3.9" - obsolete so no need to write
 name: "fastapi_docker_compose"
 services:
   fastapi_docker_compose:
