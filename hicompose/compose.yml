@@ -1,4 +1,5 @@
-# version: "3.9" - obsolete so no need to write
+# version: "3.9" - obsolete so no need to write but if you work on big project then it needed
+# because you have to update things many times
 name: "fastapi_docker_compose"
 services:
   fastapi_docker_compose:
