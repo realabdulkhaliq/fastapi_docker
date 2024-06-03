@@ -3,8 +3,8 @@ services:
   fastapi_docker_compose:
     image: fastapi_docker_compose
     build:
-      context: ./code
-      dockerfile: Dockerfile.dev
+      context: ./
+      dockerfile: Dockerfile
     container_name: fastapi_docker_container
     ports:
       - 8000:8000
