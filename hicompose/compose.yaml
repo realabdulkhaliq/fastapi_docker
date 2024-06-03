@@ -5,5 +5,6 @@ services:
     build:
       context: ./code
       dockerfile: Dockerfile.dev
+    container_name: fastapi_docker_container
     ports:
       - 8000:8000
