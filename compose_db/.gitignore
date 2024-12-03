@@ -2,3 +2,4 @@ postgres-data
 data
 .env
 env_backup
+.lock
